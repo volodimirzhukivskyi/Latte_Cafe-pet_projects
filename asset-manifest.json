@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://volodimirzhukivskyi.github.io/Latte_Cafe-pet_projects/static/css/main.17b6dadf.css",
+    "main.js": "https://volodimirzhukivskyi.github.io/Latte_Cafe-pet_projects/static/js/main.84cebd8d.js",
+    "index.html": "https://volodimirzhukivskyi.github.io/Latte_Cafe-pet_projects/index.html",
+    "main.17b6dadf.css.map": "https://volodimirzhukivskyi.github.io/Latte_Cafe-pet_projects/static/css/main.17b6dadf.css.map",
+    "main.84cebd8d.js.map": "https://volodimirzhukivskyi.github.io/Latte_Cafe-pet_projects/static/js/main.84cebd8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17b6dadf.css",
+    "static/js/main.84cebd8d.js"
+  ]
+}
