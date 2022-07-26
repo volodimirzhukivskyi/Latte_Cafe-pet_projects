@@ -1,0 +1,30 @@
+.wrap{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+padding: 220px 0 244px;
+}
+.desc{
+    max-width: 869px;
+    font-size: 32px;
+    margin: 0;
+}
+@media(max-width: 1320px){
+    .wrap{padding: 110px 0 122px}
+}
+@media(max-width: 900px){
+    .desc{
+        font-size: 28px;}
+    .wrap{padding: 50px 0 }
+
+}
+@media (max-width: 650px) {
+    .desc{
+        font-size: 16px;
+    }
+    .wrap{
+        padding: 10px 0;
+    }
+}

@@ -1,0 +1,16 @@
+.wrap {
+    display: flex;
+    justify-content: center;
+    padding: 150px 0 120px;
+}
+
+.image {
+    max-width: 644px;
+}
+
+.hideBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 40px;
+}

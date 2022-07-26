@@ -1,0 +1,33 @@
+.wrapper{
+    background: var(--maroon);
+}
+.inner{
+    color: var(--burgundy);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 121px 0 133px;
+}
+.text{
+    width: 595px;
+}
+@media(max-width: 900px){
+    .inner{
+        padding: 50px 0;
+    }
+    .text{
+        width: 375px;
+    }
+
+}
+@media(max-width: 650px) {
+.inner{
+    padding: 10px ;
+    flex-direction: column;
+    align-items: center;
+}
+    .text{
+        width: auto;
+    }
+
+}

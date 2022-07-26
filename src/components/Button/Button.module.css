@@ -1,0 +1,18 @@
+.button{
+    padding: 17px 30px;
+    margin-bottom: 12px;
+    font-size: 15px;
+    color: var(--gray-dark);
+    border: 2px solid #6F6F64;
+    cursor: pointer;
+}
+
+.button:hover{
+    background: var(--gray-dark);
+    color: white;
+}
+@media (max-width: 650px) {
+  .button{
+      padding: 5px 30px;
+  }
+}

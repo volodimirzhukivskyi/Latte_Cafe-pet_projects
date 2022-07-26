@@ -1,0 +1,9 @@
+.logo{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+@media (max-width: 800px) {
+   .logo{
+       margin: 0;
+   }
+}

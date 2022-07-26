@@ -1,0 +1,19 @@
+.h2{
+    font-size: 47px;
+}
+.h3{
+    font-weight: 700;
+    font-size: 17px;
+}
+
+@media(max-width: 900px){
+    .h2{
+        font-size: 35px;
+    }
+}
+@media(max-width: 650px){
+    .h2{
+        font-size: 35px;
+        margin: 0;
+    }
+}

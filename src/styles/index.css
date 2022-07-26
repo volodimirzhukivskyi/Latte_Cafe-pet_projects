@@ -1,0 +1,43 @@
+@import "normalize.css";
+
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
+html,
+body {
+    margin: 0;
+    padding: 0;
+
+
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+a {
+    text-decoration: none;
+
+    color: inherit;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.visualyHidden {
+    position: absolute;
+
+    overflow: hidden;
+
+    width: 0;
+    height: 0;
+}
+
+:root{
+    --maroon: #4A2B33;
+    --burgundy: #D27487;
+    --gray: #E9E9E3;
+    --gray-dark:#6F6F64;
+    --gold:#AA9E54;
+}
+@media( )
